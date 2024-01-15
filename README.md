@@ -1,0 +1,1 @@
+Welcome everyone to my guessing game. You can guess any number between 1 to 5 & If it matches the random number then you will get the result here. Even if it doesn't match you will get it's  result. Thank you!
